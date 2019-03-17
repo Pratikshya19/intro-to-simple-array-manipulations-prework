@@ -10,4 +10,4 @@ def using_pop(array)
   array.pop
 end
 
-def usio
+def pop_with_args()
