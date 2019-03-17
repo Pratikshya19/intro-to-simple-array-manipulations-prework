@@ -18,4 +18,4 @@ def usingh_shift(array)
   array.shift 
 end
 
-def
+def using_shift
