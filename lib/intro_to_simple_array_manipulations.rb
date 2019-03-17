@@ -18,4 +18,6 @@ def usingh_shift(array)
   array.shift 
 end
 
-def using_shift
+def shift_with_ards(array)
+  array.shift(2)
+end
